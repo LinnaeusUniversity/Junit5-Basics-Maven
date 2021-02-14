@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7fe3a313-093f-49d0-8c65-3278b6015782" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1oTDQszVMeU2syCG8zOfwreP6YU" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="RunManager" selected="Maven.Junit5BasicsMaven [test]">
+    <configuration name="MathUtillsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Junit5-Basics-Maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javabrains.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="javabrains" />
+      <option name="MAIN_CLASS_NAME" value="javabrains.MathUtillsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Junit5BasicsMaven [test]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="test" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.MathUtillsTest" />
+      <item itemvalue="Maven.Junit5BasicsMaven [test]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MathUtillsTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7fe3a313-093f-49d0-8c65-3278b6015782" name="Default Changelist" comment="" />
+      <created>1613301673235</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613301673235</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1190" y="348" width="1170" height="704" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613301800199">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1190" y="348" width="1170" height="704" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1613301800199" />
+    <state width="1648" height="301" key="GridCell.Tab.0.bottom" timestamp="1613301801580">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1648" height="301" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1613301801580" />
+    <state width="1648" height="301" key="GridCell.Tab.0.center" timestamp="1613301801580">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1648" height="301" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1613301801580" />
+    <state width="1648" height="301" key="GridCell.Tab.0.left" timestamp="1613301801580">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1648" height="301" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1613301801580" />
+    <state width="1648" height="301" key="GridCell.Tab.0.right" timestamp="1613301801580">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1648" height="301" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1613301801580" />
+  </component>
+</project>
